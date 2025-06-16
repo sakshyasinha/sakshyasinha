@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub!
 
-Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and emerging AI enthusiast currently pursuing my B.Tech in Computer Science at KIIT. I love building modern web applications, exploring machine learning, and contributing to impactful tech projects.
+Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and emerging AI enthusiast currently pursuing my B.Tech in Computer Science. I love building modern web applications, exploring machine learning, and contributing to impactful tech projects.
 
 ---
 
