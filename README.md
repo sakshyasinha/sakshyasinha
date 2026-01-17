@@ -7,7 +7,7 @@ Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and em
 ## 🧠 About Me
 
 - 💻 Currently working on an **AI-Powered Projects**
-- 🧩 270+ questions solved on **LeetCode**
+- 🧩 300+ questions solved on **LeetCode**
 - 📊 Strong in **JavaScript**, **React.js**, **Node.js**, and building RESTful APIs
 - 🧠 Actively learning **Machine Learning & Deep Learning** 
 - 🌐 Exploring cloud platforms like **Vercel**, **Firebase**, and **PostgreSQL**
