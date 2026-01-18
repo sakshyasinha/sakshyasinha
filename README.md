@@ -63,8 +63,6 @@ Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and em
 </p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakshyasinha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📈 GitHub Stats
 
 <p align="center">
