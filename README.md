@@ -1,23 +1,24 @@
-#  Welcome to My GitHub!
+# Hi, I'm Sakshya Sinha
 
-Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and emerging AI enthusiast currently pursuing my B.Tech in Computer Science. I love building modern web applications, exploring machine learning, and contributing to impactful tech projects.
+Full-Stack Developer specializing in AI-integrated applications — contributed to **Fastify** (Node.js core framework) and **PokeAPI** (100M+ daily requests). Shipped 5 deployed projects across MERN, Flask, and NLP stacks. 370+ DSA problems solved.
+
+Currently seeking Full-Stack internship opportunities.
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 💻 Currently working on an **AI-Powered Projects**
-- 🧩 370+ questions solved on **LeetCode**
-- 📊 Strong in **JavaScript**, **React.js**, **Node.js**, and building RESTful APIs
-- 🧠 Actively learning **Machine Learning & Deep Learning** 
-- 🌐 Exploring cloud platforms like **Vercel**, **Firebase**, and **PostgreSQL**
-- 👨‍💻 Always open to collaborations on meaningful open-source projects!
+- 🚀 Contributed to **Fastify** and **PokeAPI** — production open-source codebases
+- 🏆 Shipped AI products at **Google AI Hackathon** and **Smart India Hackathon (SIH)**
+- 🧩 **370+** problems solved on LeetCode — DP, Graphs, Sliding Window
+- 💻 Built and deployed **5 full-stack projects** across MERN, Flask, and AI stacks
+- 🤝 Always open to collaborations on meaningful open-source projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages & Tools
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -25,44 +26,34 @@ Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and em
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🧩 Frontend & UI
+### Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🔒 APIs & Tools
+### Tools & Platforms
 <p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-## 🤖 AI & ML (Actively Learning)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
----
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -72,11 +63,8 @@ Hi there! I'm **Sakshya Sinha** — a passionate full-stack web developer and em
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshya-sinha-b10a0827a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshyasinha/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sakshyasinhas-projects.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakshyasinha)
-
----
-
-_Thanks for stopping by! Let's build something awesome together 🚀_
