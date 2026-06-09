@@ -8,11 +8,11 @@ Currently seeking Full-Stack internship opportunities.
 
 ## About Me
 
-- 🚀 Contributed to **Fastify** and **PokeAPI** — production open-source codebases
-- 🏆 Shipped AI products at **Google AI Hackathon** and **Smart India Hackathon (SIH)**
-- 🧩 **370+** problems solved on LeetCode — DP, Graphs, Sliding Window
-- 💻 Built and deployed **5 full-stack projects** across MERN, Flask, and AI stacks
-- 🤝 Always open to collaborations on meaningful open-source projects
+-  Contributed to **Fastify** and **PokeAPI** — production open-source codebases
+-  Shipped AI products at **Google AI Hackathon** and **Smart India Hackathon (SIH)**
+-  **400+** problems solved on LeetCode — DP, Graphs, Sliding Window
+-  Built and deployed **5 full-stack projects** across MERN, Flask, and AI stacks
+-  Always open to collaborations on meaningful open-source projects
 
 ---
 
