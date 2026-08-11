@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Contributed+to+Open-Design;Shipped+5%2B+Full-Stack+Projects;400%2B+DSA+Problems+Solved;Seeking+Full-Stack+Internships+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Contributed+to+Fastify+%26+PokeAPI;Shipped+5%2B+Full-Stack+Projects;400%2B+DSA+Problems+Solved;Seeking+Full-Stack+Internships+%F0%9F%9A%80" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-- 🔧 Contributed to **Open-Design** — real production open-source codebases
+- 🔧 Contributed to **Fastify** (Node.js core framework) and **PokeAPI** (100M+ daily requests) — real production open-source codebases
 - 🏆 Shipped AI products at **Google AI Hackathon** and **Smart India Hackathon (SIH)**
 - 🧠 **400+** problems solved on LeetCode — DP, Graphs, Sliding Window
 - 🚀 Built and deployed **5 full-stack projects** across MERN, Flask, and AI/NLP stacks
@@ -84,10 +84,18 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sakshyasinha&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://raw.githubusercontent.com/sakshyasinha/sakshyasinha/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+
+## 👁️ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshyasinha&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
