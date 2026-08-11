@@ -90,6 +90,15 @@
   <img src="https://raw.githubusercontent.com/sakshyasinha/sakshyasinha/output/github-contribution-grid-snake.svg" />
 </div>
 
+<sub align="center">
+
+One-time setup (5 min) — this makes the snake **self-hosted in your own repo**, so unlike the widgets above it never depends on a third-party server:
+1. In your `sakshyasinha/sakshyasinha` repo, go to **Settings → Actions → General** and allow "Read and write permissions" for the `GITHUB_TOKEN`.
+2. Add a file `.github/workflows/snake.yml` with the [Platane/snk](https://github.com/Platane/snk) action (happy to generate this file for you).
+3. Push — the Action commits an `output` branch with the SVG, which the line above points to.
+
+</sub>
+
 <br/>
 
 ## 👁️ Profile Views
