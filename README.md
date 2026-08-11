@@ -72,8 +72,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakshyasinha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakshyasinha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sakshyasinha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sakshyasinha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=sakshyasinha&theme=radical&hide_border=true&background=0D1117" />
 </div>
@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sakshyasinha&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sakshyasinha&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 <br/>
