@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Contributed+to+Open-Design;Shipped+5%2B+Full-Stack+Projects;400%2B+DSA+Problems+Solved;Seeking+Full-Stack+Internships+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Contributed+to+Open-Design;Shipped+5%2B+Full-Stack+Projects;500%2B+DSA+Problems+Solved;Seeking+Full-Stack+Internships+%F0%9F%9A%80" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 - 🔧 Contributed to **Open-Design** — real production open-source codebases
 - 🏆 Shipped AI products at **Google AI Hackathon** and **Smart India Hackathon (SIH)**
-- 🧠 **400+** problems solved on LeetCode — DP, Graphs, Sliding Window
+- 🧠 **500+** problems solved on LeetCode — DP, Graphs, Sliding Window
 - 🚀 Built and deployed **5 full-stack projects** across MERN, Flask, and AI/NLP stacks
 - 🤝 Always open to collaborating on meaningful open-source projects
 - 🎯 Currently seeking **Full-Stack Internship** opportunities
